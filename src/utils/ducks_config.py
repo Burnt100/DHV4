@@ -268,6 +268,8 @@ normal = {
         _("COUACK"),
         _("COUACK"),
         _("*cries*"),
+        _("You'll regret it if you kill me!"),
+        _("I am the best duck in the world!"),
         _("Hello world"),
         _("How are you today?"),
         _("Please don't kill me..."),
@@ -409,6 +411,7 @@ kamikaze = {
     "shouts": [
         _("**DON'T MOVE OR EVERYTHING WILL EXPLODE!**"),
         _("Gonna kill y'all !"),
+        _("Y'all don't deserve to live!"),
     ],
     "usernames": [
         _("The Kamikaze Duck"),
